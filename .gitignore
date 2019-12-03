@@ -7,3 +7,6 @@
 
 # .tfvars files
 *.tfvars
+
+#connections to aws acct
+connections.tf
