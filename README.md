@@ -12,7 +12,7 @@ This Repo contains the diagram, Terraform code and relevant information to build
 ## Diagram
 This is the diagram of the mini infraestructure created for this scenario:
 
-![Diagram](https://github.com/carloshz4/aws_vpc1_ansible/blob/master/VPC1.jpg)
+![Diagram](https://github.com/carloshz4/aws_vpc1_terraform/blob/master/VPC1.jpg)
 
 
 Note diagram was create with [draw.io](https://www.draw.io/) which is a handy and free tool to create and edit these kind of diagrams.
